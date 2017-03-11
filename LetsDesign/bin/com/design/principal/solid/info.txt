@@ -1,0 +1,7 @@
+SOLID Design Principle:
+
+S ingle Responsibilty - one class should have one and only one responsibility
+O pen/Closed Class - Class/Component should be open for extension but closed for modification
+L iskov Substitution - Derived Types must be completely substituable for thier base types
+I nterface Segregation - Clients should not be forced to implement unnecessary methods which they will not use.
+D ependency Injection - injecting dependency to the application.
